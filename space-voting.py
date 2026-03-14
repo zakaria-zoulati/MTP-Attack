@@ -1,4 +1,4 @@
-"""In this function what I will do is to apply the space voting and store the key in the key.text"""
+"""In this function what I will do is to apply the space voting and store the key in the key.txt"""
 
 from utils import getMaxLength, isValid
 

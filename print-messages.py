@@ -1,4 +1,4 @@
-"""In this function I get the key and apply it to the cyphers and then get the current possible messages"""
+"""In this function I get the key and apply it to the ciphers and then get the current possible messages"""
 
 # Getting the key
 key = ""
